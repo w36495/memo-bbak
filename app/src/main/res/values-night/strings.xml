@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">memo-bbak</string>
     <string name="content_description_save">content_description_save</string>
     <string name="menu_title_save">menu_title_save</string>
     <string name="menu_title_lock">menu_title_lock</string>
